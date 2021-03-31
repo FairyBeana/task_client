@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /ucgi/~cjwatson/cvsweb
+Disallow: /ucgi/~dans/cvsweb
+Disallow: /ucgi/~fanf/cvsweb
+Disallow: /ucgi/~ian/cvsweb
+Disallow: /ucgi/~ijackson/cvsweb
+Disallow: /ucgi/~jacobn/cvsweb
+Disallow: /ucgi/~owend/cvsweb
+Disallow: /ucgi/~pmaydell/cvsweb
+Disallow: /ucgi/~richard/cvsweb
+Disallow: /ucgi/~richardk/cvsweb
+Disallow: /ucgi/~theom/cvsweb
+Disallow: /ucgi/~wiki/cvsweb
+Disallow: /ucgi/~sg2004/
+Disallow: /~xensrcts/
